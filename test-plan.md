@@ -4,11 +4,11 @@
 
 | Campo            | Descrição                         |
 |------------------|-----------------------------------|
-| **Projeto**      | [Nome do Projeto]                 |
-| **Versão**       | [ex: 1.0.0]                       |
-| **Responsável**  | [Nome do QA]                      |
-| **Data**         | [DD/MM/AAAA]                      |
-| **Status**       | [ ] Em elaboração / [ ] Aprovado  |
+| **Projeto**      | Projeto UM                        |
+| **Versão**       | 1.0.0                             |
+| **Responsável**  | Jheniffer Brito                   |
+| **Data**         | 17/04/2026                        |
+| **Status**       | [X] Em elaboração / [ ] Aprovado  |
 
 ---
 
