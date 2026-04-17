@@ -1,9 +1,9 @@
 # ✅ Checklist de Regressão
 
-**Projeto:** [Nome do Projeto]  
-**Versão testada:** [ex: 2.4.0]  
-**Responsável:** [Nome do QA]  
-**Data de execução:** [DD/MM/AAAA]  
+**Projeto:** Projeto UM 
+**Versão testada:** 2.4.0 
+**Responsável:** Jheniffer Brito
+**Data de execução:** 15/04/2026 
 **Ambiente:** Homologação / Staging
 
 ---
