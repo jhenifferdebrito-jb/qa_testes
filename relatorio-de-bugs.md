@@ -1,8 +1,8 @@
 # 🐛 Relatório de Bug
 
-**Projeto:** [Nome do Projeto]  
-**Responsável:** [Nome do QA]  
-**Data:** [DD/MM/AAAA]
+**Projeto:** Projeto Teste  
+**Responsável:** Jheniffer Brito 
+**Data:** 17/04/2026
 
 ---
 
@@ -11,15 +11,15 @@
 | Campo             | Descrição                                         |
 |-------------------|---------------------------------------------------|
 | **ID**            | BUG-001                                           |
-| **Data**          | [DD/MM/AAAA]                                      |
-| **Reportado por** | [Nome do QA]                                      |
+| **Data**          | 17/04/2026                                     |
+| **Reportado por** | Jheniffer Brito                                    |
 | **Severidade**    | 🔴 Crítica / 🟠 Alta / 🟡 Média / 🟢 Baixa        |
 | **Prioridade**    | Alta / Média / Baixa                              |
 | **Status**        | Aberto / Em análise / Corrigido / Fechado         |
 | **Ambiente**      | Homologação / Produção                            |
-| **Versão**        | [ex: 2.3.1]                                       |
-| **Navegador**     | [ex: Chrome 120 / Firefox 121]                    |
-| **SO**            | [ex: Windows 11 / macOS Ventura / Android 13]     |
+| **Versão**        | 2.3.1                                      |
+| **Navegador**     | Chrome 120 / Firefox 121                 |
+| **SO**            | Windows 11 / Android 13     |
 
 ---
 
@@ -84,8 +84,8 @@ Ao realizar [ação X], o sistema [comportamento incorreto observado], quando o 
 | Campo             | Descrição                                         |
 |-------------------|---------------------------------------------------|
 | **ID**            | BUG-002                                           |
-| **Data**          | [DD/MM/AAAA]                                      |
-| **Reportado por** | [Nome do QA]                                      |
+| **Data**          | 17/04/2026                                   |
+| **Reportado por** | Jheniffer Brito                                     |
 | **Severidade**    | 🔴 Crítica / 🟠 Alta / 🟡 Média / 🟢 Baixa        |
 | **Prioridade**    | Alta / Média / Baixa                              |
 | **Status**        | Aberto / Em análise / Corrigido / Fechado         |
