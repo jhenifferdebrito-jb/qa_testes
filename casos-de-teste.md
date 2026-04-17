@@ -1,8 +1,8 @@
 # 🧪 Casos de Teste — [Nome da Funcionalidade]
 
-**Projeto:** [Nome do Projeto]  
-**Módulo:** [ex: Login / Cadastro / Checkout]  
-**Responsável:** [Nome do QA]  
+**Projeto:** Projeto Teste 
+**Módulo:** Login
+**Responsável:** Jheniffer Brito  
 **Data:** [DD/MM/AAAA]  
 **Versão:** [1.0]
 
